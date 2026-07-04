@@ -1,6 +1,6 @@
-# stream-magnet
+# 磁力链接边下边看
 
-`stream-magnet` 是一个为 Google Antigravity CLI (`agycli` / `agy`) 定制的自定义一键化 Skill。它支持在 Windows 系统下全自动配置环境并一键流式边下边播磁力链接。
+`磁力链接边下边看` 是一个为 Google Antigravity CLI (`agycli` / `agy`) 定制的自定义一键化 Skill。它支持在 Windows 系统下全自动配置环境并一键流式边下边播磁力链接。
 
 ## 🌟 核心特性
 

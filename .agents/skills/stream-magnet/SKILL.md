@@ -6,7 +6,7 @@ description: >-
   该技能会自动检查并静默安装 qBittorrent 和 PotPlayer，修改配置文件为顺序下载，并在检测到视频文件开始写入后自动调起 PotPlayer 进行播放。
 ---
 
-# Stream Magnet
+# 磁力链接边下边看
 
 该 Skill 用于在 Windows 系统上实现磁力链接/种子文件的一键流式边下边播。
 
